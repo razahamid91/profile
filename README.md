@@ -2,9 +2,12 @@
 
 This is a sample React project configured with Vite. The source code is hosted on GitHub, and the live demo is deployed on Netlify https://hamid-raza.netlify.app/
 
-## Components
+## How to Run the project
 
-### 1. `src/components/ExampleComponent.js`
+### Open a Terminal or Command Prompt:
+### Open the terminal or command prompt on your computer. You can use the built-in terminal in your code editor or open a separate terminal window.
+
+## Navigate to the Directory Where You Want to Clone the Repository:
 
 A sample React component demonstrating the basic structure.
 
