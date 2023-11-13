@@ -26,9 +26,7 @@ Use the cd command to enter the newly created repository directory:
 ### Run the project:
 <pre>npm run dev</pre>
 
-### 2. `src/App.js`
 
-The main application component.
 
 ## Libraries and Plugins
 
@@ -37,24 +35,45 @@ The main application component.
 - **react:** JavaScript library for building user interfaces.
 - **react-dom:** Provides DOM-specific methods.
 
-### DevDependencies
+# Project Dependencies
 
-- **@types/react:** TypeScript type definitions for React.
-- **@types/react-dom:** TypeScript type definitions for React DOM.
-- **@vitejs/plugin-react:** Vite plugin for React.
-- **autoprefixer:** PostCSS plugin to parse CSS and add vendor prefixes.
-- **eslint:** JavaScript linter.
-- **eslint-plugin-react:** ESLint plugin for React.
-- **eslint-plugin-react-hooks:** ESLint plugin for React Hooks.
-- **eslint-plugin-react-refresh:** ESLint plugin for React Refresh.
-- **postcss:** Tool for transforming styles with JavaScript plugins.
-- **tailwindcss:** CSS framework.
-- **vite:** Fast development server and bundler.
+## React
+The JavaScript library for building user interfaces. React is a popular choice for building dynamic and interactive web applications.
 
-## Usage
+## React DOM
+This library serves as the entry point to the DOM (Document Object Model) and is used for rendering React components into the browser.
 
-1. Clone the repository:
+## @types/react
+This package provides TypeScript type definitions for the React library. It helps TypeScript understand the React code, providing better development tooling and catching potential errors early.
 
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+## @types/react-dom
+Similar to @types/react, this package provides TypeScript type definitions for the React DOM library.
+
+## @vitejs/plugin-react
+A Vite plugin for handling React applications. Vite is a build tool that is designed for fast development with features like hot module replacement (HMR).
+
+## Autoprefixer
+A PostCSS plugin that automatically adds vendor prefixes to CSS rules, ensuring cross-browser compatibility.
+
+## ESLint
+A popular JavaScript and TypeScript linter. It helps maintain code quality by identifying and fixing problems in your code.
+
+## ESLint Plugin React
+A collection of ESLint rules specific to React. It ensures that your React code follows best practices and catches common mistakes.
+
+## ESLint Plugin React Hooks
+ESLint plugin to enforce rules related to React Hooks. It helps ensure that Hooks are used correctly and efficiently.
+
+## ESLint Plugin React Refresh
+A plugin that provides ESLint rules for projects using React Refresh. React Refresh allows for fast development with instant feedback on changes without losing the component state.
+
+## PostCSS
+A tool for transforming styles with JavaScript plugins. It is often used to process CSS with plugins like Autoprefixer.
+
+## Tailwind CSS
+A utility-first CSS framework that helps in building modern and responsive user interfaces. It provides a set of pre-designed styles that you can use to quickly build UI components.
+
+## Vite
+A build tool for modern web development. It is designed to be fast and efficient, especially during development, with features like HMR and optimized build output.
+
+These libraries and plugins collectively provide a development environment for building React applications, enforce coding standards, and assist in handling styles and build processes efficiently.
