@@ -2,7 +2,7 @@
 
 This is a sample React project configured with Vite. The source code is hosted on GitHub, and the live demo is deployed on Netlify https://hamid-raza.netlify.app/
 
-## How to Run the project
+## How to setup and run the project
 
 ### Open a Terminal or Command Prompt:
 Open the terminal or command prompt on your computer. You can use the built-in terminal in your code editor or open a separate terminal window.
@@ -14,6 +14,17 @@ Use the cd command to navigate to the directory where you want to clone the repo
 
 ### Clone the Repository:
 <pre>git clone https://github.com/razahamid91/profile</pre>
+This command will create a new directory with the name of your repository and download the repository contents into it.
+
+### Navigate into the Cloned Repository:
+Use the cd command to enter the newly created repository directory:
+<pre>cd your-repository </pre>
+
+### Open the new terminal in vs code and install
+<pre>npm i</pre>
+
+### Run the project:
+<pre>npm run dev</pre>
 
 ### 2. `src/App.js`
 
