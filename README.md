@@ -10,7 +10,10 @@ Open the terminal or command prompt on your computer. You can use the built-in t
 ### Navigate to the Directory Where You Want to Clone the Repository:
 
 Use the cd command to navigate to the directory where you want to clone the repository. For example, to navigate to the desktop, you can use:
-<pre>`cd desktop`</pre>
+<pre>cd desktop</pre>
+
+### Clone the Repository:
+<pre>git clone https://github.com/razahamid91/profile</pre>
 
 ### 2. `src/App.js`
 
