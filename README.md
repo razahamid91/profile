@@ -1,6 +1,6 @@
 # React Vite Project
 
-This is a sample React project configured with Vite. The source code is hosted on GitHub, and the live demo is deployed on Netlify.
+This is a sample React project configured with Vite. The source code is hosted on GitHub, and the live demo is deployed on Netlify https://hamid-raza.netlify.app/
 
 ## Components
 
