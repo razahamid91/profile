@@ -1,6 +1,6 @@
-# React Vite Project
+# Using React Vite  Profile Project
 
-This is a sample React project configured with Vite. The source code is hosted on GitHub, and the live demo is deployed on Netlify https://hamid-raza.netlify.app/
+This is a sample React project configured with Vite. The source code is hosted on GitHub, and the live demo is deployed on Netlify  https://hamid-raza.netlify.app/
 
 ## How to setup and run the project
 
@@ -26,14 +26,6 @@ Use the cd command to enter the newly created repository directory:
 ### Run the project:
 <pre>npm run dev</pre>
 
-
-
-## Libraries and Plugins
-
-### Dependencies
-
-- **react:** JavaScript library for building user interfaces.
-- **react-dom:** Provides DOM-specific methods.
 
 # Project Dependencies
 
