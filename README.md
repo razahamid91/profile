@@ -5,9 +5,9 @@ This is a sample React project configured with Vite. The source code is hosted o
 ## How to Run the project
 
 ### Open a Terminal or Command Prompt:
-### Open the terminal or command prompt on your computer. You can use the built-in terminal in your code editor or open a separate terminal window.
+Open the terminal or command prompt on your computer. You can use the built-in terminal in your code editor or open a separate terminal window.
 
-## Navigate to the Directory Where You Want to Clone the Repository:
+### Navigate to the Directory Where You Want to Clone the Repository:
 
 A sample React component demonstrating the basic structure.
 
