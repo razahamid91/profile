@@ -4,21 +4,22 @@
             {
                 "blogID": 1,
                 "blogTitle": "A Changing World Order",
-                "blogDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero doloribus praesentium ullam accusamus nulla minima asperiores soluta delectus similique pariatur saepe placeat odit sequi, est voluptatem quod facere! Voluptatibus nam ipsam harum laborum earum.",
+                "blogDescription": "The world is changing at a feverish pace. Friends, colleagues and everyones engage in knowledge work are beginning to sense this, including...",
                 "blogWatermark": "musing by anujgosalia",
                 "blogDate": "August 2 . 2 min Read . 102 Views"
             },
             {
                 "blogID": 2,
                 "blogTitle": "India v/s Australia",
-                "blogDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero doloribus praesentium ullam accusamus nulla minima asperiores soluta delectus similique pariatur saepe placeat odit sequi, est voluptatem quod facere! Voluptatibus nam ipsam harum laborum earum.",
+                "blogDescription": "Think about it- this cricket series was akin to therapy. \n\nLaying our childhood trauma up top, working with it slowly and surely over two m...",
                 "blogWatermark": "thought by anujgosalia",
                 "blogDate": "January 21 . 1 min Read . 156 Views"
-            },
+              },
+              
             {
                 "blogID": 2,
                 "blogTitle": "Write to Build",
-                "blogDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero doloribus praesentium ullam accusamus nulla minima asperiores soluta delectus similique pariatur saepe placeat odit sequi, est voluptatem quod facere! Voluptatibus nam ipsam harum laborum earum.",
+                "blogDescription": "Writing is the fist step to create:\n\n-stories \n-products \n-companies",
                 "blogDate": "November 18 . 1 min Read . 228 Views",
                 "blogWatermark": "thought by anujgosalia"
             }
