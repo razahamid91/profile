@@ -11,3 +11,9 @@
     background-repeat: no-repeat;
     background-attachment: inherit;
 }
+.blog-watermark {
+    font-size: small;
+}
+.blog-date{
+    font-size: small;
+}
