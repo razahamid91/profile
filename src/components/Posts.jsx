@@ -22,7 +22,7 @@ const Posts = () => {
                         <div className="blog-description" dangerouslySetInnerHTML={{ __html: blog.blogDescription.replace(/\n/g, '<br/>') }} />
                         <div className="blog-info flex justify-between">
                             <div className="blog-watermark" dangerouslySetInnerHTML={{ __html: blog.blogWatermark.replace(/\b(musing|thought)\b/g, '<span style="color: blue;">$1</span>') }} />
-                            <div className="blog-date">{blog.blogDate}</div>
+                            <div className="blog-date ">{blog.blogDate}</div>
                         </div>
                     </div>
                 ))}
